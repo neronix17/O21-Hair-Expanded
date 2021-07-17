@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<HairDef>
+		<defName>O21_CrewCut</defName>
+		<label>Crew Cut</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/CrewCut</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+
+    <HairDef>
+		<defName>O21_Fade</defName>
+		<label>Fade</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Fade</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+
+    <HairDef>
+		<defName>O21_CombBack</defName>
+		<label>Comb Back</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Combback</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+
+    <HairDef>
+		<defName>O21_Combover</defName>
+		<label>Comb Over</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Combover</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>	
+
+    <HairDef>
+		<defName>O21_TheTrooper</defName>
+		<label>The Trooper</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/TheTrooper</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+
+    <HairDef>
+		<defName>O21_Grimes</defName>
+		<label>Grimes</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Grimes</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+
+    <HairDef>
+		<defName>O21_Undercut</defName>
+		<label>Under Cut</label>
+		<hairGender>MaleUsually</hairGender>
+		<texPath>ExtendedHair/Male/Undercut</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+	
+    <HairDef>
+		<defName>O21_Price</defName>
+		<label>Price</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Price</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+ 
+    <HairDef>
+		<defName>O21_Soap</defName>
+		<label>Soap</label>
+		<hairGender>MaleUsually</hairGender>
+		<texPath>ExtendedHair/Male/Soap</texPath>
+		<hairTags>
+			<li>Rural</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+	
+    <HairDef>
+		<defName>O21_Casual</defName>
+		<label>Casual</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Casual</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+	
+    <HairDef>
+		<defName>Curly</defName>
+		<label>Curly</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Curly</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Rural</li>
+		</hairTags>
+	</HairDef>
+
+    <HairDef>
+		<defName>O21_Fancy</defName>
+		<label>Fancy</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Fancy</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+
+    <HairDef>
+		<defName>O21_Wavy</defName>
+		<label>Wavy</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Wavy</texPath>
+		<hairTags>
+			<li>Urban</li>
+            <li>Rural</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+
+    <HairDef>
+		<defName>Recruit</defName>
+		<label>Recruit</label>
+		<hairGender>Male</hairGender>
+		<texPath>ExtendedHair/Male/Recruit</texPath>
+		<hairTags>
+			<li>Urban</li>
+			<li>Soldier</li>
+		</hairTags>
+	</HairDef>
+
+</Defs>
