@@ -4,7 +4,7 @@
 	<HairDef>
 		<defName>O21_Bangs</defName>
 		<label>Bangs</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>ExtendedHair/Female/Bangs</texPath>
 		<category>Urban</category>
 		<styleTags>
@@ -16,7 +16,7 @@
 	<HairDef>
 		<defName>O21_Bobcut</defName>
 		<label>Bobcut</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>ExtendedHair/Female/Bobcut</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -29,7 +29,7 @@
 	<HairDef>
 		<defName>O21_Covert</defName>
 		<label>Covert</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>ExtendedHair/Female/Covert</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -42,7 +42,7 @@
 	<HairDef>
 		<defName>O21_Pigtails</defName>
 		<label>Pigtails</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>ExtendedHair/Female/Pigtails</texPath>
 		<category>Rural</category>
 		<styleTags>
@@ -54,7 +54,7 @@
 	<HairDef>
 		<defName>O21_Ponybangs</defName>
 		<label>Ponybangs</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>ExtendedHair/Female/Ponybangs</texPath>
 		<category>Rural</category>
 		<styleTags>
@@ -66,7 +66,7 @@
 	<HairDef>
 		<defName>O21_Short</defName>
 		<label>Short</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>ExtendedHair/Female/Short</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -79,7 +79,7 @@
 	<HairDef>
 		<defName>O21_Straight</defName>
 		<label>Straight</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>ExtendedHair/Female/Straight</texPath>
 		<category>Rural</category>
 		<styleTags>
@@ -91,7 +91,7 @@
 	<HairDef>
 		<defName>O21_Taldeer</defName>
 		<label>Taldeer</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>ExtendedHair/Female/Taldeer</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -104,7 +104,7 @@
 	<HairDef>
 		<defName>O21_TheWoman</defName>
 		<label>The Woman</label>
-		<hairGender>Female</hairGender>
+		<styleGender>Female</styleGender>
 		<texPath>ExtendedHair/Female/TheWoman</texPath>
 		<category>Soldier</category>
 		<styleTags>

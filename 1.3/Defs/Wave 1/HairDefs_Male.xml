@@ -4,7 +4,7 @@
 	<HairDef>
 		<defName>O21_CrewCut</defName>
 		<label>Crew Cut</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/CrewCut</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -17,7 +17,7 @@
     <HairDef>
 		<defName>O21_Fade</defName>
 		<label>Fade</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/Fade</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -29,7 +29,7 @@
     <HairDef>
 		<defName>O21_CombBack</defName>
 		<label>Comb Back</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/Combback</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -42,7 +42,7 @@
     <HairDef>
 		<defName>O21_Combover</defName>
 		<label>Comb Over</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/Combover</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -55,7 +55,7 @@
     <HairDef>
 		<defName>O21_TheTrooper</defName>
 		<label>The Trooper</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/TheTrooper</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -68,7 +68,7 @@
     <HairDef>
 		<defName>O21_Grimes</defName>
 		<label>Grimes</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/Grimes</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -81,7 +81,7 @@
     <HairDef>
 		<defName>O21_Undercut</defName>
 		<label>Under Cut</label>
-		<hairGender>MaleUsually</hairGender>
+		<styleGender>MaleUsually</styleGender>
 		<texPath>ExtendedHair/Male/Undercut</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -93,7 +93,7 @@
     <HairDef>
 		<defName>O21_Price</defName>
 		<label>Price</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/Price</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -106,7 +106,7 @@
     <HairDef>
 		<defName>O21_Soap</defName>
 		<label>Soap</label>
-		<hairGender>MaleUsually</hairGender>
+		<styleGender>MaleUsually</styleGender>
 		<texPath>ExtendedHair/Male/Soap</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -118,7 +118,7 @@
     <HairDef>
 		<defName>O21_Casual</defName>
 		<label>Casual</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/Casual</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -131,7 +131,7 @@
     <HairDef>
 		<defName>Curly</defName>
 		<label>Curly</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/Curly</texPath>
 		<category>Rural</category>
 		<styleTags>
@@ -143,7 +143,7 @@
     <HairDef>
 		<defName>O21_Fancy</defName>
 		<label>Fancy</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/Fancy</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -155,7 +155,7 @@
     <HairDef>
 		<defName>O21_Wavy</defName>
 		<label>Wavy</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/Wavy</texPath>
 		<category>Soldier</category>
 		<styleTags>
@@ -168,7 +168,7 @@
     <HairDef>
 		<defName>Recruit</defName>
 		<label>Recruit</label>
-		<hairGender>Male</hairGender>
+		<styleGender>Male</styleGender>
 		<texPath>ExtendedHair/Male/Recruit</texPath>
 		<category>Soldier</category>
 		<styleTags>
